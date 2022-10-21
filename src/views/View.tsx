@@ -13,7 +13,7 @@ const View = () => {
   return (
     <>
       <Routes>
-        <Route index path="/atypical_casey" element={<Home />} />
+        <Route index path="/atypical_casey/" element={<Home />} />
         <Route
           path="fav_casey_scenes"
           element={

@@ -1,0 +1,307 @@
+{
+  "fav_casey_scenes": [
+    {
+      "id": 1,
+      "scene_img": "/images/scene_one.png",
+      "scene_title": "1. Punching a bulley"
+    },
+    {
+      "id": 2,
+      "scene_img": "/images/scene_two.png",
+      "scene_title": "2. Protective Gf"
+    },
+    {
+      "id": 3,
+      "scene_img": "/images/scene_three.png",
+      "scene_title": "3. Confession"
+    },
+    {
+      "id": 4,
+      "scene_img": "/images/scene_four.png",
+      "scene_title": "4. Teaching",
+      "caption": "(How to ride a bicycle?)"
+    },
+    {
+      "id": 5,
+      "scene_img": "/images/scene_five.jpg",
+      "scene_title": "5. For Dad"
+    },
+    {
+      "id": 6,
+      "scene_img": "/images/scene_six.jpg",
+      "scene_title": "6. Go to a party"
+    },
+    {
+      "id": 7,
+      "scene_img": "/images/scene_seven.jpg",
+      "scene_title": "7. Support System",
+      "caption": "(I'll be your support system.)"
+    },
+    {
+      "id": 8,
+      "scene_img": "/images/scene_eight.png",
+      "scene_title": "8. Clothes Restriction"
+    },
+    {
+      "id": 9,
+      "scene_img": "/images/scene_nine.png",
+      "scene_title": "9. Support system"
+    },
+    {
+      "id": 10,
+      "scene_img": "/images/scene_ten.jpg",
+      "scene_title": "10. Getting together"
+    },
+    {
+      "id": 11,
+      "scene_img": "/images/scene_eleven.jpg",
+      "scene_title": "11. Kiss"
+    }
+  ],
+  "gallery": [
+    {
+      "id": 1,
+      "gallery_img": "/images/one.jpg"
+    },
+    {
+      "id": 2,
+      "gallery_img": "/images/two.jpg"
+    },
+    {
+      "id": 3,
+      "gallery_img": "/images/three.jpg"
+    },
+    {
+      "id": 4,
+      "gallery_img": "/images/four.jpg"
+    },
+    {
+      "id": 5,
+      "gallery_img": "/images/five.jpg"
+    },
+    {
+      "id": 6,
+      "gallery_img": "/images/six.png"
+    },
+    {
+      "id": 7,
+      "gallery_img": "/images/seven.png"
+    },
+    {
+      "id": 8,
+      "gallery_img": "/images/eight.png"
+    },
+    {
+      "id": 9,
+      "gallery_img": "/images/nine.png"
+    },
+    {
+      "id": 10,
+      "gallery_img": "/images/ten.png"
+    },
+    {
+      "id": 11,
+      "gallery_img": "/images/eleven.png"
+    },
+    {
+      "id": 12,
+      "gallery_img": "/images/twelve.png"
+    },
+    {
+      "id": 13,
+      "gallery_img": "/images/thirteen.png"
+    },
+    {
+      "id": 14,
+      "gallery_img": "/images/fourteen.jpg"
+    },
+    {
+      "id": 15,
+      "gallery_img": "/images/fifteen.jpg"
+    },
+    {
+      "id": 16,
+      "gallery_img": "/images/sixteen.jpg"
+    },
+    {
+      "id": 17,
+      "gallery_img": "/images/seventeen.jpg"
+    },
+    {
+      "id": 18,
+      "gallery_img": "/images/eighteen.jpg"
+    },
+    {
+      "id": 19,
+      "gallery_img": "/images/ninteen.jpg"
+    },
+    {
+      "id": 20,
+      "gallery_img": "/images/twenty.jpg"
+    },
+    {
+      "id": 21,
+      "gallery_img": "/images/twentyOne.jpg"
+    },
+    {
+      "id": 22,
+      "gallery_img": "/images/twentyTwo.jpg"
+    },
+    {
+      "id": 23,
+      "gallery_img": "/images/twentyThree.jpg"
+    },
+    {
+      "id": 24,
+      "gallery_img": "/images/twentyFour.jpg"
+    },
+    {
+      "id": 25,
+      "gallery_img": "/images/twentyFive.jpg"
+    },
+    {
+      "id": 26,
+      "gallery_img": "/images/twentySix.jpg"
+    },
+    {
+      "id": 27,
+      "gallery_img": "/images/twentySeven.jpg"
+    },
+    {
+      "id": 28,
+      "gallery_img": "/images/twentyEight.jpg"
+    },
+    {
+      "id": 29,
+      "gallery_img": "/images/twentyNine.jpg"
+    },
+    {
+      "id": 30,
+      "gallery_img": "/images/thirty.jpg"
+    },
+    {
+      "id": 31,
+      "gallery_img": "/images/thirtyOne.jpg"
+    },
+    {
+      "id": 32,
+      "gallery_img": "/images/thirtyTwo.jpg"
+    },
+    {
+      "id": 33,
+      "gallery_img": "/images/thirtyThree.jpg"
+    },
+    {
+      "id": 34,
+      "gallery_img": "/images/thirtyFour.jpg"
+    },
+    {
+      "id": 35,
+      "gallery_img": "/images/thirtyFive.jpg"
+    },
+    {
+      "id": 36,
+      "gallery_img": "/images/thirtySix.jpg"
+    },
+    {
+      "id": 37,
+      "gallery_img": "/images/scene_one.png"
+    },
+    {
+      "id": 38,
+      "gallery_img": "/images/scene_two.png"
+    },
+    {
+      "id": 39,
+      "gallery_img": "/images/scene_three.png"
+    },
+    {
+      "id": 40,
+      "gallery_img": "/images/scene_four.png"
+    },
+    {
+      "id": 41,
+      "gallery_img": "/images/scene_five.jpg"
+    },
+    {
+      "id": 42,
+      "gallery_img": "/images/scene_six.jpg"
+    },
+    {
+      "id": 43,
+      "gallery_img": "/images/scene_seven.jpg"
+    },
+    {
+      "id": 44,
+      "gallery_img": "/images/scene_eight.png"
+    },
+    {
+      "id": 45,
+      "gallery_img": "/images/scene_nine.png"
+    },
+    {
+      "id": 46,
+      "gallery_img": "/images/scene_ten.jpg"
+    },
+    {
+      "id": 47,
+      "gallery_img": "/images/scene_eleven.jpg"
+    },
+    {
+      "id": 48,
+      "gallery_img": "/images/thirtySeven.jpg"
+    },
+    {
+      "id": 49,
+      "gallery_img": "/images/thirtyEight.jpg"
+    },
+    {
+      "id": 50,
+      "gallery_img": "/images/thirtyNine.png"
+    },
+    {
+      "id": 51,
+      "gallery_img": "/images/fourty.png"
+    },
+    {
+      "id": 52,
+      "gallery_img": "/images/fourtyOne.jfif"
+    },
+    {
+      "id": 53,
+      "gallery_img": "/images/fourtyTwo.jfif"
+    },
+    {
+      "id": 54,
+      "gallery_img": "/images/fourtyThree.jfif"
+    },
+    {
+      "id": 55,
+      "gallery_img": "/images/fourtyFour.jfif"
+    },
+    {
+      "id": 56,
+      "gallery_img": "/images/fourtyFive.jfif"
+    },
+    {
+      "id": 57,
+      "gallery_img": "/images/fourtySix.jfif"
+    },
+    {
+      "id": 58,
+      "gallery_img": "/images/fourtySeven.png"
+    },
+    {
+      "id": 59,
+      "gallery_img": "/images/fourtyEight.png"
+    },
+    {
+      "id": 60,
+      "gallery_img": "/images/fourtyNine.jfif"
+    },
+    {
+      "id": 61,
+      "gallery_img": "/images/fifty.jfif"
+    }
+  ]
+}

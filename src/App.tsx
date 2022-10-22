@@ -9,7 +9,7 @@ type ValueProps = { theme: string; switchTheme: () => void; };
 export const ThemeContext = createContext<ValueProps | null>(null);
 
 function App() {
-  const [theme, setTheme] = useLocalStorage<string>('theme' ? 'dark' : 'light');
+  const [theme, setTheme] = useLocalStorage<string>('theme', 'dark' ? 'light' : 'dark');
 
   const switchTheme = () => {
     const newTheme = theme === 'light' ? 'dark' : 'light';

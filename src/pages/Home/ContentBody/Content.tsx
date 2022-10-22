@@ -1,4 +1,5 @@
 import { Container, Grid, Box, Typography } from "@mui/material";
+import video from "../../../images/casey-video.mp4";
 
 const Content = () => {
   return (
@@ -28,7 +29,7 @@ const Content = () => {
             <Box>
               <Typography variant="h4">
                 I watched{" "}
-                <a href="https://sflix.to/tv/free-atypical-hd-38379"><i style={{ color: "var(--primary-color)" }}>Atypical</i></a> for
+                <a href="https://sflix.to/tv/free-atypical-hd-38379" target="_blank" rel="noreferrer"><i style={{ color: "var(--primary-color)" }}>Atypical</i></a> for
                 the plot
               </Typography>
               <Typography variant="h6">The plot :</Typography>
@@ -61,7 +62,7 @@ const Content = () => {
                 muted
                 style={{ cursor: "pointer" }}
               >
-                <source src="/images/casey-video.mp4" type="video/mp4" />
+                <source src={video} type="video/mp4" />
                 <source src="movie.ogg" type="video/ogg" />
                 Your browser does not support the video tag.
               </video>
